@@ -3,7 +3,7 @@
 이미지·미디어 파일을 자연 정렬한 순서대로 번호를 붙이고, 원본 폴더 구조를 유지해 복사하는 Java CLI 도구입니다.
 
 > 이 저장소는 Java 프로토타입의 개발·개선 과정을 기록한 Legacy 프로젝트입니다.
-> 후속 프로젝트는 [Rust 버전](https://github.com/kkssss123/file-renamer-rust)에서 확인할 수 있습니다.
+> 후속 프로젝트는 [Rust 버전](https://github.com/kkssss123/rusty-shell.git)에서 확인할 수 있습니다.
 
 ## 프로젝트 배경
 
@@ -183,6 +183,6 @@ src/
 
 Java 버전에서 구현한 파일 정리 기능을 바탕으로, 사용 흐름을 개선하기 위한 Rust 버전을 개발했습니다.
 
-- [Rust 파일 정리 도구](https://github.com/kkssss123/file-renamer-rust)
+- [Rust 파일 정리 도구](https://github.com/kkssss123/rusty-shell.git)
 
 이 저장소는 초기 구현부터 개선까지의 과정을 보여주는 개발 기록으로 유지합니다.
